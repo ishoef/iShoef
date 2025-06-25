@@ -46,16 +46,6 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
 </p>
 
-<p align="right">
-  
-</p>
-
-
-
-
-
-
-
 ---
 
 ### 📈 GitHub Stats
