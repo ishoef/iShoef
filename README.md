@@ -37,14 +37,16 @@
 <h3 align="left">🚀 Tech Stack:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,taillwindcss,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,wordpress" />
+  <img src="https://img.shields.io/badge/DaisyUI-0EA5E9?style=for-the-badge&logoColor=white" height="28" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
 </p>
+
 
 
 
