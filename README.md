@@ -92,7 +92,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mdismailhossannayef"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="mailto:ismailhossan.nayef@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="mailto:ismailhossennayeb@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
   <a href="https://ismailnayef.web.app"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge"/></a>
+</p>
+
+
 </p>
 
