@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://readme-hero.vercel.app/api?username=abdullahalsuad&center=true&font=source_code_pro&size=30&theme=tokyonight](https://i.ibb.co/Y7jvwg91/Black-and-Gray-Minimalist-Shapes-Personal-Profile-Linked-In-Banner.png)" alt="Header Image" />
+  <img src="banner.png" alt="Header Image" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ismail Hossan Nayef</h1>
