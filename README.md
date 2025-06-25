@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 Full Stack Developer
 
 
@@ -19,3 +19,32 @@ Full Stack Developer
 [![](https://visitcount.itsvg.in/api?id=ishoef&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### 👋 Hello! I'm [Your Name]
+
+I'm a [Your Role] passionate about [Your Interests].
+
+- 🔭 I’m currently working on: [Project Name or Topic]
+- 🌱 I’m learning: [e.g., React, Arabic Grammar, etc.]
+- 💬 Ask me about: [Topics you're comfortable with]
+- 📫 How to reach me: [Email or Social link]
+- ⚡ Fun fact: [A fun or quirky fact about you]
+
+---
+
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+<!-- Add others based on your stack -->
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
