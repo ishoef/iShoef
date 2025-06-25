@@ -20,7 +20,7 @@
 - 🌱 Currently learning **Advanced React & Next.js**
 - - ✍️ Love writing clean code & beautiful UIs
  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHAxaDNxZ24wNm0ybWc0b3BucmFndDhtcmtnaGkwcXdlMTV2cTMxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cGCTkvdoPUld5yMiMd/giphy.gif" alt="sleppy" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHAxaDNxZ24wNm0ybWc0b3BucmFndDhtcmtnaGkwcXdlMTV2cTMxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cGCTkvdoPUld5yMiMd/giphy.gif" alt="sleppy" widht="200" />
 
 ---
 
