@@ -68,7 +68,7 @@
 
 
 ### 📫 Let's Connect
-<p align="center" ><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdhdHl0eGl2MWVwemV4bDl1OG9yaWFmMjV2azh1eDA0bDUyYzdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VKO3FHbhQbnbeD6Bas/giphy.gif" width="200" alt="waiting" /><p/>
+<p align="center" ><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZvZThjdTgwcGlkZXpwc24zYjFtcWh6Y2VpYTYzcmgwZjRpOWdmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" width="200" alt="waiting" /><p/>
 <p align="center">
   <a href="https://linkedin.com/in/mdismailhossannayef"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="mailto:ismailhossennayeb@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
