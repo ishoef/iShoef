@@ -37,10 +37,10 @@
 <h3 align="left">🚀 Tech Stack:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,bootstrap,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,taillwindcss,nodejs,express" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,wordpress,redux,aws,cloudflare,prettier" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,wordpress" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
