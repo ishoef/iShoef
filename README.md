@@ -17,8 +17,8 @@
 - 🎯 Passionate about **Frontend development**, especially **React**, **Next.js**, and **design systems**
 - 🎨 Exploring **Figma**, **Framer**, and UI/UX design
 - 🔧 Enjoy working with **Node.js**, **Express**, and backend fundamentals
-- 🌱 Currently learning **Advanced React & Next.js**, **AWS**, and **Cloudflare Workers**
-- ✍️ Love writing clean code & beautiful UIs
+- 🌱 Currently learning **Advanced React & Next.js**
+- - ✍️ Love writing clean code & beautiful UIs
 
 ---
 
