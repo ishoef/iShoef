@@ -66,7 +66,7 @@
 
 
 ### 📫 Let's Connect
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpdDltcW12OGVla2ZmN3pkMHdzdjNocXhyYXR0bm5maTR1a3JobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200" alt="Sleepy Time" />
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpdDltcW12OGVla2ZmN3pkMHdzdjNocXhyYXR0bm5maTR1a3JobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200" alt="waiting" />
 <p align="center">
   <a href="https://linkedin.com/in/mdismailhossannayef"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="mailto:ismailhossennayeb@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
