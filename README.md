@@ -47,7 +47,7 @@
 </p>
 
 <p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp3ZGhmcDhoZXo3bm5paDZoa3dkYzI4aHJqbTNwano3Y2trbnRxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FEVaSRKQxJiRKhpZr/giphy.gif" width="200" alt="Sleepy Time" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21jMGV5MWFsdmg5MTRqeGd6a29lNnlpejNpMHdpNGpvdW16Z3UzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Sleepy Time" />
 </p>
 
 
