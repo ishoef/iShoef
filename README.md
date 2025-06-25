@@ -33,28 +33,20 @@
 
 ### 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td align="left" valign="top">
-      
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express" />
 </p>
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,wordpress" />
 </p>
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
 </p>
 
-    </td>
-    <td align="right" valign="top">
-      
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21jMGV5MWFsdmg5MTRqeGd6a29lNnlpejNpMHdpNGpvdW16Z3UzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Sleepy Time" />
+<p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21jMGV5MWFsdmg5MTRqeGd6a29lNnlpejNpMHdpNGpvdW16Z3UzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Sleepy Time" />
+</p>
 
-    </td>
-  </tr>
-</table>
 
 
 
