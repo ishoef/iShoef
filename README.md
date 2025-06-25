@@ -87,15 +87,6 @@
 
 ---
 
-### 🐱 Fun Side of Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/13ZHjidRzoi7n2/giphy.gif" width="100"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
