@@ -41,8 +41,6 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ---
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-
 <h3 align="left">🚀 Tech Stack:</h3>
 
 <table style="border: none;">
@@ -77,11 +75,11 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40" /></td>
   </tr>
-  <tr>
-    
-  </tr>
  
 </table>
+
+<img align="right" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120"/>
+
 
 
 
