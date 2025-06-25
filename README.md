@@ -46,6 +46,10 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkM3Z2eWZrcTVyM2UwdHpuYWdtbzhwMmJpdnNwZHB2M2JoYWdwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L95W4wv8nnb9K/giphy.gif" width="200" alt="Sleepy Time" />
+</p>
+
 
 
 
