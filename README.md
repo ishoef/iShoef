@@ -37,8 +37,15 @@
 <h3 align="left">🚀 Tech Stack:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,bootstrap,nodejs,express,mongodb,firebase,vite,npm,git,wordpress,redux,aws,cloudflare,prettier,figma,photoshop,illustrator,aftereffects,premierepro,framer" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,bootstrap,nodejs,express" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,wordpress,redux,aws,cloudflare,prettier" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
+</p>
+
 
 
 
