@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 I'm from **Bangladesh**  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHAxaDNxZ24wNm0ybWc0b3BucmFndDhtcmtnaGkwcXdlMTV2cTMxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cGCTkvdoPUld5yMiMd/giphy.gif" alt="sleepy" width="200" />
+- 🌍 I'm from **Bangladesh**  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGU2MjJlY2dycnN1Y2FzY212MmMxMnVnNDRwdmh6bXV5ejYyaG1jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pRei7WkxoGF1mQfqwY/giphy.gif" alt="sleepy" width="200" />
 
 - 🎯 Passionate about **Frontend development**, especially **React**, **Next.js**, and **design systems**
 - 🎨 Exploring **Figma**, **Framer**, and UI/UX design
