@@ -40,7 +40,7 @@
 </p>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3enl0cWZydG9hZWlreGcxMDN3am5sY2h3aDFpc2czM2JieDI3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dZCKG98VCSdM6sYC9Y/giphy.gif" width="200" alt="Sleepy Time" />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,wordpress" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vite,npm,git,postgresql" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premierepro,framer" />
